@@ -1,4 +1,4 @@
-419bc9829bd4f3ddbf3edf957938da89  DEBIAN/control
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+9306a8ed583ab2ef764e62413c873c77  DEBIAN/control
 c8a6552e988d024542b666d49b57953a  etc/apt/sources.list.d/google-chrome.list
 a1eb20135d3c7eea193e9226db6ebfef  etc/apt/trusted.gpg.d/chrome.asc

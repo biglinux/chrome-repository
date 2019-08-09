@@ -5,7 +5,7 @@ Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
 Section: admin
 Priority: optional
-Installed-Size:44
+Installed-Size:20
 Description: Chrome packages directly from google
 
 
